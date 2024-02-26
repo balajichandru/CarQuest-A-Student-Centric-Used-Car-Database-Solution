@@ -38,14 +38,14 @@ Reliable, economical, and environmentally friendly transportation options are i
 *     Car Region Table: In the creation of the Car_Region table, we have the implicit index column RegionID. This is a key column that is unique to each row in the table and thus helps to quickly locate and access the data.
 
 *     Car Location Table:
-•   Primary Key Index: LocationID serves as the primary key, acting as an implicit index.
-•   Foreign Key Index: RegionID is used to refer to the Car_Region table, functioning as a foreign key index that speeds up join operations between the Car_Region and Car_Location tables.
+*     **Primary Key Index:** LocationID serves as the primary key, acting as an implicit index.
+*     **Foreign Key Index:** RegionID is used to refer to the Car_Region table, functioning as a foreign key index that speeds up join operations between the Car_Region and Car_Location tables.
 
 *     Car Model Table:
-•   Primary Key Index: The primary key on ModelID simplifies the search for car models.
+*     **Primary Key Index**: The primary key on ModelID simplifies the search for car models.
 *	    Car Entry Table:
-•   Primary Key Index: The Vehicle Identification Number (VIN) is the unique identifier for each car, ensuring effective retrieval of each car entry listing.
-• Foreign Key Index: The foreign keys LocationID and ModelID reference the Car_Location and Car_Model tables, respectively.
+*     **Primary Key Index**: The Vehicle Identification Number (VIN) is the unique identifier for each car, ensuring effective retrieval of each car entry listing.
+*     **Foreign Key Index**: The foreign keys LocationID and ModelID reference the Car_Location and Car_Model tables, respectively.
 
 ## DATABASE Operations Performed
 
