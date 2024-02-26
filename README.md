@@ -80,13 +80,13 @@ explore, compare, and discover used cars.
 -  The website was run in our local machine. The deployment of the same is planned for a future release.
 
 
-[WebUI Snapshot 1](https://github.com/arjunsai07/CarQuest-A-Student-Centric-Used-Car-Database-Solution/blob/main/WebUI%20Sc1.png "WebUI Snapshot 1")
+[![WebUI Snapshot 1](https://github.com/arjunsai07/CarQuest-A-Student-Centric-Used-Car-Database-Solution/blob/main/WebUI%20Sc1.png "WebUI Snapshot 1")
 
-[WebUI Snapshot 2](https://github.com/arjunsai07/CarQuest-A-Student-Centric-Used-Car-Database-Solution/blob/main/WebUI%20Sc2.png "WebUI Snapshot 2")
+[![WebUI Snapshot 2](https://github.com/arjunsai07/CarQuest-A-Student-Centric-Used-Car-Database-Solution/blob/main/WebUI%20Sc2.png "WebUI Snapshot 2")
 
-[WebUI Snapshot 3](https://github.com/arjunsai07/CarQuest-A-Student-Centric-Used-Car-Database-Solution/blob/main/WebUI%20Sc3.png "WebUI Snapshot 3")
+[![WebUI Snapshot 3](https://github.com/arjunsai07/CarQuest-A-Student-Centric-Used-Car-Database-Solution/blob/main/WebUI%20Sc3.png "WebUI Snapshot 3")
 
-[WebUI Snapshot 4](https://github.com/arjunsai07/CarQuest-A-Student-Centric-Used-Car-Database-Solution/blob/main/WebUI%20Sc4.png "WebUI Snapshot 4")
+[![WebUI Snapshot 4](https://github.com/arjunsai07/CarQuest-A-Student-Centric-Used-Car-Database-Solution/blob/main/WebUI%20Sc4.png "WebUI Snapshot 4")
 
 ## Authors
 
