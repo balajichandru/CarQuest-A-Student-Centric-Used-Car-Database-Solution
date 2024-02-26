@@ -87,7 +87,7 @@ explore, compare, and discover used cars.
 -  The website was run in our local machine. The deployment of the same is planned for a future release.
 
 
-[![WebUI Snapshot 1](https://github.com/arjunsai07/CarQuest-A-Student-Centric-Used-Car-Database-Solution/blob/main/WebUI%20Sc1.png?raw=true "WebUI Snapshot 1")
+![WebUI Snapshot 1](https://github.com/arjunsai07/CarQuest-A-Student-Centric-Used-Car-Database-Solution/blob/main/WebUI%20Sc1.png?raw=true "WebUI Snapshot 1")
 
 [![WebUI Snapshot 2](https://github.com/arjunsai07/CarQuest-A-Student-Centric-Used-Car-Database-Solution/blob/main/WebUI%20Sc2.png?raw=true "WebUI Snapshot 2")
 
