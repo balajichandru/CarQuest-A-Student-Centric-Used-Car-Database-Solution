@@ -1,5 +1,8 @@
 # CarQuest-A-Student-Centric-Used-Car-Database-Solution
-CarQuest: A Student-Centric Used Car Database Solution
+
+A tool to simplify the search of used across New York state. Read the documentation here: 
+
+[CarQuest V 1.0.0](https://github.com/arjunsai07/CarQuest-A-Student-Centric-Used-Car-Database-Solution/blob/main/CarQuest-%20Final%20Report.pdf "CarQuest V 1.0.0")
 
 ### Project Overview
 
