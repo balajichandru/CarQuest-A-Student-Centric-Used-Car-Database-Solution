@@ -14,9 +14,9 @@ Reliable, economical, and environmentally friendly transportation options are i
 - VS Code- IDE 
 - NodeJS- Web User Interface
 
-## Phase 1- Sept 01, 2023 to Oct 01, 2023
+## Project duration- Sept 01, 2023 to Dec 01, 2023
 
-## Higlights-
+### Higlights-
 
 - Data cleaning and refining
 - Normalization of data using 1NF, 2NF, 3NF, BCNF, 4NF
