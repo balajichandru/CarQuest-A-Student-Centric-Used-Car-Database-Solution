@@ -99,7 +99,7 @@ explore, compare, and discover used cars.
 
 - **Arjun Srinivasan** - [https://github.com/arjunsai07](https://github.com/arjunsai07")
 - **Sai Teja** - bsaiteja43@gmail.com
-- Balaji Hariharan
+- **Balaji Hariharan** - https://github.com/balajichandru
 
 ### Acknowledgments
 
